@@ -1,37 +1,36 @@
+# Yohan Villar - Portfolio Personal
 
-```markdown
-# Yohan Villar - Portfolio
+## 💻 Desarrollador Backend | Estudiante de Ingeniería de Sistemas
 
-Portafolio personal de un estudiante de Ingeniería de Sistemas e Informática apasionado por el desarrollo backend y las tecnologías web.
-
-🔗 **[Ver sitio en vivo](https://yohanvillarp.github.io/)**
-
-## Sobre mí
-
-Estudiante de octavo ciclo en la Universidad Nacional Amazónica de Madre de Dios, con enfoque en desarrollo de software y soluciones backend. Busco constantemente aprender y aplicar nuevas tecnologías para crear soluciones eficientes.
-
-## Stack Tecnológico
-
-**Backend:**
-- Java
-- Node.js
-- JavaScript / TypeScript
-
-**Frontend:**
-- React
-- HTML5 / CSS3
-
-**Bases de Datos:**
-- SQL Server
-- MongoDB
-
-## Contacto
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yohanvillarp/)
-- 📧 Email: yohannikel21@gmail.com
-- 🐱 GitHub: [@yohanvillarp](https://github.com/yohanvillarp)
+Portafolio personal de un estudiante apasionado por el **desarrollo backend** y las tecnologías web, con enfoque en la creación de soluciones de software robustas y eficientes.
 
 ---
 
-⭐ Si te gustó mi portafolio, ¡dale una estrella al repo!
-```
+### 🔗 Enlaces
+
+| Tipo | Enlace |
+| :--- | :--- |
+| **Sitio Web** | **[Ver Portfolio en vivo](https://yohanvillarp.github.io/)** |
+| **LinkedIn** | [Perfil de LinkedIn](https://www.linkedin.com/in/yohanvillarp/) |
+| **GitHub** | [@yohanvillarp](https://github.com/yohanvillarp) |
+| **Email** | yohannikel21@gmail.com |
+
+---
+
+## 🚀 Stack Tecnológico
+
+Una lista de las principales herramientas y tecnologías con las que trabajo:
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend** | Java, Node.js, JavaScript, TypeScript |
+| **Frontend** | React |
+| **Bases de Datos** | SQL Server, MongoDB |
+
+---
+
+## 💡 Sobre Mí
+
+Estudiante de octavo ciclo de **Ingeniería de Sistemas e Informática** en la Universidad Nacional Amazónica de Madre de Dios. Mi enfoque principal es el desarrollo de software y la implementación de **soluciones backend**. Busco constantemente aprender y aplicar nuevas tecnologías para construir sistemas eficientes y escalables.
+
+---
